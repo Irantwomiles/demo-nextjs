@@ -17,6 +17,4 @@ export default function Project() {
     )
 }
 
-export const config = {
-    runtime: 'edge',
-};
+export const runtime = 'edge';
