@@ -16,3 +16,7 @@ export default function Project() {
         </main>
     )
 }
+
+export const config = {
+    runtime: 'edge',
+};
